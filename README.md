@@ -9,6 +9,13 @@ This project was aimed to generate insights into the sales performance of Kultra
 #### Data Sources
 The primary source of data used here was generated using the sales data of a megastore
 
-##### Tools Used
-- MS Excel (For Data Cleaning)
+#### Tools Used
 - SQL Server (For Querying and Analysis)
+
+#### Data Preparation
+In the initial phase of loading the data, missing values were handled, and some data types were changed
+
+#### Exploratory Data Analysis
+EDA invloved exploring the data in order to answer some questions about the data such as:
+- The shipping method which incurred the most shipping cost
+- The small business customer had the highest sales, and a lot more
